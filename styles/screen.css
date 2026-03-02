@@ -1,5 +1,5 @@
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     color: #008f11;
     background: #000000;
     padding: 0 40px;
@@ -8,7 +8,7 @@ body {
 
 nav {
     margin: 40px auto 0 auto;
-    width: 250px;
+    width: 500px;
     border-radius: 50px;
     background: #151516;
 }
@@ -28,7 +28,7 @@ nav ul li {
 nav ul li a {
     display: inline-block;
     padding: 20px;
-    color: #EAE8FF;
+    color: #96eba1;
     text-decoration: none;
     font-size: 1.2em;
 }
@@ -38,13 +38,18 @@ h1 {
     letter-spacing: -2px;
 }
 
-h1 strong {
-    background: rgb(34,193,195);
-    background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
 
 img.about {
     opacity: 0.5;
 }
+
+p {
+  margin-bottom: 1.25rem;
+  color: #c8ffc8;
+}
+
+nav ul li a:hover {
+  color: #0a0a0a;
+  text-decoration: none;
+}
+

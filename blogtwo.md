@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: Arrival at Kepler
+bodyclass: page-blogtwo
 ---
 
 # LOG 002 — Arrival at Kepler
@@ -20,3 +21,6 @@ Orbital insertion is complete. I am 800 kilometers above the surface and everyth
 Tomorrow I begin the real work. Surface surveys. Sample collection protocols. The long, methodical process of turning wonder into data.
 Tonight, though, I am just going to sit here at the viewport.
 Some things deserve to be felt before they are measured.
+
+
+{% user 'Commander' 'Nova' %}

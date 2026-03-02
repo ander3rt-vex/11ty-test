@@ -1,6 +1,7 @@
 ---
 layout: layout.liquid
 title: Singing Nebula
+bodyclass: page-blogone
 ---
 
 # LOG 002 — The Singing Nebula of Sector 7-Gamma
@@ -22,3 +23,6 @@ I think she is listening too, in whatever way she listens to things.
 I do not know what this is. I do not know if it is natural or something else or a category of thing that our language does not have a word for yet. What I know is that I am the only human being within forty light-years of this sound, and the sound has been here — cycling, repeating, patient — for longer than our species has existed.
 The universe keeps finding new ways to make me feel small and, somehow, grateful.
 More data incoming. Stay tuned.
+
+
+{% user 'Commander' 'Nova' %}
